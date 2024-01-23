@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eatpaintchic
-- 👀 I’m interested in WordPress design and development, painting urban landscapes in Chicago, reading books, find new music to listen to.
+- 👀 I’m interested in WordPress design and development, painting urban landscapes in Chicago, reading books, finding new music to listen to.
 - 🌱 I’m currently learning how to use theme.json, build block themes and hybrid themes for WordPress. 
 - 💞️ I’m looking to collaborate on WordPress!
 - 📫 How to reach me twitter.com/eatpaintchic
